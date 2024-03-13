@@ -5,7 +5,7 @@ Projeto Spotify desenvolvido durante imersão Alura de Front-End
 
 ## 🌎 Como ficou?
 
-Acesse o <a href="https://spotify-imersao-alura-xi.vercel.app">Website</a> e veja o resultado.
+Acesse o <a href="https://projeto-spotify-front.vercel.app/">Website</a> e veja o resultado.
 
 ## 🎭 Artistas & Músicas
 
