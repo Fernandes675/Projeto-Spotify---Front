@@ -1,0 +1,209 @@
+body {
+    background-color: #000;
+    font-family: var(--letter-font-family);
+}
+
+/* Cima Direita Baixo Esquerda */
+
+/* SideBar */
+
+.sidebar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding: 1rem;
+    width: 18rem;
+}
+
+.sidebar_navigation{
+    background-color: var(--background-box-main);
+    border-radius: 0.5rem;
+    padding: 1rem 0 0 1rem;
+}
+
+
+.sidebar_navigation .logo {
+    background-color: var(--background-box-main);
+    display: flex;
+    border-radius: 0.5rem;
+    padding: 1rem 0 0 1rem;
+}
+
+.sidebar_navigation .logo img {
+    width: 5rem;
+}
+
+.sidebar nav ul{
+    margin-top: 1.25rem;
+    padding: 0 1.25rem 10px 1.25rem;
+}
+
+.sidebar ul li{
+    padding: 0.6rem 0;
+}
+
+.sidebar nav ul li a{
+    color: var(--letter-color);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+
+.library {
+    background-color: var(--background-box-main);
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 0 1rem 4rem 1rem;
+    color: var(--letter-color);
+    font-weight: 600;
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+
+/* LIBRARY */
+
+.library .library__content {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.library .library__button {
+    display: flex;
+    background-color: transparent;
+    margin-right: 0.6rem;
+    color: var(--letter-color);
+    border: 0;
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    padding: 1.25rem 0.6rem;
+}
+.library .library__button .fa {
+    font-size: 1.25rem;
+    margin-right: 0.6rem;
+    font-weight: 600;
+    padding-right: 0.5rem;
+}
+
+.library .library__content .fa-plus {
+    margin: 1.25rem 0.6rem;
+}
+
+.section-playlist { 
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1.25;
+    background-color: var(--background-section-playlist);
+    color: var(--letter-color);
+    font-weight: 600;
+    font-size: 1rem;
+    margin: 0.5rem 0;
+    padding: 1rem 1.25rem;
+    border-radius: 0.5rem;
+}
+
+.section-playlist .section-playlist-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-playlist-content .text {
+    padding-bottom: 0.875rem;
+    color: var(--letter-color-white);
+}
+
+.section-playlist-content .title {
+    font-weight: 700;
+}
+
+.section-playlist-content .subtitle {
+    font-weight: 500;
+    font-size: 0.75rem;
+    
+}
+
+.section-playlist-content .section-playlist-button {
+    display: flex;
+    justify-content: center;
+    background-color: var(--background-button);
+    color: var(--letter-color-black);
+    border-radius: 1rem;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: none;
+    padding: 0.625rem;
+    margin-top: 0.75rem;
+    border: 0;
+    width: 7rem;
+    cursor: pointer;
+}
+
+.sidebar .cookies {
+    margin: 1.56rem 1.25rem;
+}
+
+.sidebar .cookies a {
+    color: var(--letter-color);
+    font-weight: 500;
+    font-size: 0.62rem;
+    text-decoration: none;
+    text-transform: none
+}
+
+.sidebar .cookies a:hover {
+    text-decoration: underline;
+}
+
+.language .language-button {
+    background-color: transparent;
+    border: 0.063rem solid #878787;
+    border-radius: 1.25rem;
+    color: var(--letter-color-white);
+    font-weight: bold;
+    cursor: pointer;
+    align-items: center;
+    width: 10.625rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+.paid_promotion{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to right, #AF2997, #519AF4);
+    padding: 0.938rem 2.5rem;
+    display: flex;
+    justify-content: space-between;
+    color: var(--letter-color-white);
+}
+
+.paid_promotion .text .title {
+    font-weight: 600;
+    font-size: medium;
+}
+
+.paid_promotion .text .subtitle {
+    font-size: medium;
+
+}
+
+.paid_promotion button {
+    background-color: var(--background-button);
+    color: var(--letter-color-black);
+    font-size: 0.75rem;
+    font-weight: bold;
+    padding: 0.938rem 1.875rem;
+    border: 0;
+    border-radius: 2.5rem;
+    cursor: pointer;
+    flex-shrink: 0;
+}
