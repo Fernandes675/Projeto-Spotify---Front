@@ -1,13 +1,11 @@
 
 # 🎶 SPOTIFY - Imersão Front-End
 
-Desenvolvido um site com base ao proprio SPOTIFY, nas aulas que teve durante os 5 dias da imersão da ALURA, claro eu quis ir mais além e coloquei funcionalidade ao card e assim dando sentido ao site de música! 
-
-Foi adicionado 25 artistas com as minhas musicas preferidas de cada um.
+Projeto Spotify desenvolvido durante imersão Alura de Front-End
 
 ### 🌎 Como ficou?
 
-Acesse o <a href="https://spotify-imersao-alura-xi.vercel.app">Website</a> e veja o resultado, aproveite e escute um desses artistas.
+Acesse o <a href="https://spotify-imersao-alura-xi.vercel.app">Website</a> e veja o resultado.
 
 ### 🎭 Artistas & Músicas
 
@@ -38,11 +36,6 @@ Acesse o <a href="https://spotify-imersao-alura-xi.vercel.app">Website</a> e vej
 - Travis Scott - Stargazing
 - Tavin - Pétalas
 
-### 🎬 Demonstração
-
-![gif1](https://github.com/AndreyCadmo/Spotify-Imersao-Alura/assets/49537908/f21d11d9-f265-4988-a030-71c146f7d7cb)
-
-![gif2](https://github.com/AndreyCadmo/Spotify-Imersao-Alura/assets/49537908/83af1795-c8ba-4294-8d3c-0f83149e9402)
 
 ### ⚒ Linguagens e Ferramentas 
 <div display-flex >
@@ -52,18 +45,16 @@ Acesse o <a href="https://spotify-imersao-alura-xi.vercel.app">Website</a> e vej
 </div>
 
 
-### 💡 Aprendizados
+ 💡 Aprendizados
 
- - Manipulação do DOM.
  - Responsividade em CSS
-    - *O Site ainda não está responsivo*
  - CSS Grid
  - Pseudo-classes.
  - Frameworks.
  - Media Queries.
 
 
-### 💾 Rodando localmente
+ 💾 Rodar localmente
 
 Clone o projeto
 
@@ -91,8 +82,4 @@ Inicie o servidor
 
 <br>
 
-
-### 🙍‍♂️ Autor
-
-- [@AndreyCadmo](https://github.com/AndreyCadmo)
 
