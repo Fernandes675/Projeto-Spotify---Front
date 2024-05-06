@@ -32,7 +32,7 @@ Acesse o <a href="https://projeto-spotify-front.vercel.app/">Website</a> e veja 
 </div>
 
 
- ## 💡 Aprendizados
+ ## Aprendizados
 
  - Responsividade em CSS
  - CSS Grid
