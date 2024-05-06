@@ -1,11 +1,11 @@
 
 Projeto Spotify desenvolvido durante imersão Alura de Front-End
 
-## 🎶 Como ficou?
+## Como ficou?
 
 Acesse o <a href="https://projeto-spotify-front.vercel.app/">Website</a> e veja o resultado.
 
-## 🎭 Artistas & Músicas
+## Artistas & Músicas
 
 - Ana Castela - Nosso Quadro
 - Arlindo Cruz - O Show Tem Que Continuar
